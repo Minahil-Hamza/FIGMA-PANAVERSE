@@ -2,7 +2,6 @@ import Image from 'next/image';
 import logo from '../../../public/logo.png';
 import React from 'react';
 import Link from "next/link";
-import Hero from './sections/Hero';
 
 const Header = () => {
   return (

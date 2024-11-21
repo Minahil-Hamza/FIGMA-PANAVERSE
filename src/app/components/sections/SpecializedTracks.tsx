@@ -43,6 +43,22 @@ export const data = [
       },
     ],
   },
+
+  {
+    slug: "cnc",
+    header: "Cloud-Native Computing Specialization",
+    description:
+      "The Cloud-Native Computing Specialization focuses on Containers, Kubernetes, and CDK for Kubernetes.",
+    image: cnc,
+    quarters: [
+      {
+        header: "Quarter IV",
+        description:
+       "CN-351: Certified Kubernetes Application Developer (CKAD)",
+        number: 4,
+      },
+    ],
+  },
   {
     slug: "iot",
     header: "The Ambient Computing and IoT Specialization",

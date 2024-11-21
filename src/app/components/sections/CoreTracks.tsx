@@ -35,7 +35,8 @@ const CoreTracks =() =>{
                     <h4 className="text-teal-700 font-bold text-lg mt-4 ">Progress of Studies</h4>
                     <h2 className="text-3xl font-bold whitespace-pre-line leading-8 text-black">Core Courses</h2>
                     <p className="mt-3 text-lg text-slate-600 leading-[30px] max-w-xl">
-                        Every Participant of'
+                       
+Every participant of the program will start by completing the following three core courses:
 
                     </p>
                     <div className="mt-4">

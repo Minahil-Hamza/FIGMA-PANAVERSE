@@ -16,8 +16,7 @@ const Outcome = () => {
         <div className='flex gap-x-8 items-center flex-col-reverse md:flex-row'>
           {/* Left Image */}
           <div className='flex-1'>
-            <Image src={require("../../../../public/female.png")} alt="female employ" width={500} height={500} />
-          </div>
+          <Image src="/female.png" alt="female Image" width={500} height={500} />          </div>
 
           {/* Right Content */}
           <div className='flex-1'>
